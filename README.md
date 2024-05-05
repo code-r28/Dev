@@ -1,1 +1,1 @@
-So this is an sample repo, ive dont to kickstart my git skills again
+So this is an sample repo, ive done to kickstart my git skills again
